@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chooko Lite 1.2\n"
+"POT-Creation-Date: 2015-07-22 16:25+0100\n"
+"PO-Revision-Date: 2016-06-15 16:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: Iceable Themes <contact@iceablethemes.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16
+msgid "404"
+msgstr "404"
+
+#: ../404.php:20
+msgid "Page Not Found"
+msgstr "Page Introuvable"
+
+#: ../404.php:21 ../index.php:118 ../page.php:54 ../single.php:132
+#: ../page-templates/full-width.php:56
+msgid "What you are looking for isn't here..."
+msgstr "Ce que vous cherchez n'est pas ici..."
+
+#: ../404.php:22
+msgid "Maybe a search will help ?"
+msgstr "Peut-être qu'une recherche pourrait vous aider ?"
+
+#: ../comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est protégé par un mot de passe. Veuillez entrer le mot de passe "
+"pour voir les commentaires."
+
+#: ../comments.php:20
+#, php-format
+msgid "One Response to %2$s"
+msgstr "Une réponse à %2$s"
+
+#: ../comments.php:30
+msgid "Older comments"
+msgstr "Commentaires précédents"
+
+#: ../comments.php:33
+msgid "Newer comments"
+msgstr "Commentaires suivants"
+
+#: ../comments.php:42
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../footer.php:24
+#, php-format
+msgid "Copyright &copy; %s %s."
+msgstr "Copyright &copy; %s %s."
+
+#: ../footer.php:26
+#, php-format
+msgid "Proudly powered by <a href=\"%s\" title=\"%s\">%s</a>."
+msgstr "Fièrement propulsé par <a href=\"%s\" title=\"%s\">%s</a>."
+
+#: ../footer.php:27
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: ../footer.php:29
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../footer.php:32
+#, php-format
+msgid "Chooko design by <a href=\"%s\" title=\"%s\">Iceable Themes</a>."
+msgstr "Chooko design par <a href=\"%s\" title=\"%s\">Iceable Themes</a>."
+
+#: ../functions.php:113
+msgid "Default Sidebar"
+msgstr "Sidebar par défaut"
+
+#: ../functions.php:125
+msgid "Footer"
+msgstr "Pied de page"
+
+#: ../functions.php:223
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: ../index.php:19
+msgid "Search Results for "
+msgstr "Résultat de la Recherche pour "
+
+#: ../index.php:24
+msgid "Tag: "
+msgstr "Tag : "
+
+#: ../index.php:29
+msgid "Category: "
+msgstr "Catégorie : "
+
+#: ../index.php:34
+msgid "Daily archives: "
+msgstr "Archives journalières : "
+
+#: ../index.php:37
+msgid "Monthly archives: "
+msgstr "Archives mensuelles : "
+
+#: ../index.php:40
+msgid "Yearly archives: "
+msgstr "Archives annuelles : "
+
+#: ../index.php:68 ../single.php:34
+msgid "by "
+msgstr "par "
+
+#: ../index.php:72 ../single.php:37
+msgid "in"
+msgstr "dans"
+
+#: ../index.php:75
+msgid "No Comment"
+msgstr "Aucun Commentaire"
+
+#: ../index.php:75
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: ../index.php:75
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: ../index.php:75 ../single.php:43
+msgid "Comments Off"
+msgstr "Commentaires Off"
+
+#: ../index.php:80 ../page.php:38 ../single.php:47
+#: ../page-templates/full-width.php:39
+msgid "Edit"
+msgstr "Éditer"
+
+#: ../index.php:110 ../index.php:117 ../page.php:53 ../single.php:131
+#: ../page-templates/full-width.php:55
+msgid "Not Found"
+msgstr "Introuvable"
+
+#: ../index.php:111
+#, php-format
+msgid "Your search for \"%s\" did not return any result."
+msgstr "Votre recherche de \"%s\" n'a retourné aucun résultat."
+
+#: ../index.php:112
+msgid "Would you like to try another search ?"
+msgstr "Voulez-vous essayer une nouvelle recherche ?"
+
+#: ../index.php:126
+msgid "Previous Posts"
+msgstr "Articles précédents"
+
+#: ../index.php:130
+msgid "Next Posts"
+msgstr "Articles suivants"
+
+#: ../page.php:26 ../page-templates/full-width.php:26
+msgid "Pages:"
+msgstr "Pages :"
+
+#: ../page.php:31 ../single.php:69 ../page-templates/full-width.php:31
+msgid "Next page"
+msgstr "Page suivante"
+
+#: ../page.php:32 ../single.php:70 ../page-templates/full-width.php:32
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: ../sidebar.php:16
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: ../sidebar.php:21
+msgid "Archives"
+msgstr "Archives"
+
+#: ../sidebar.php:26
+msgid "Meta"
+msgstr "Meta"
+
+#: ../single.php:42
+msgid "No"
+msgstr "Pas de "
+
+#: ../single.php:42
+msgid "1"
+msgstr "1"
+
+#: ../single.php:42
+msgid "%"
+msgstr "%"
+
+#: ../single.php:43
+msgid "Comment"
+msgstr "Commentaire"
+
+#: ../single.php:43
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../single.php:64
+msgid "Pages"
+msgstr "Pages"
+
+#: ../single.php:87
+msgid "Previous Image"
+msgstr "Image précédente"
+
+#: ../single.php:91
+msgid "Next Image"
+msgstr "Image suivante"
+
+#: ../single.php:97 ../single.php:117
+msgid "Previous Post"
+msgstr "Article précédent"
+
+#: ../single.php:100 ../single.php:120
+msgid "Next Post"
+msgstr "Article suivant"
+
+#: ../inc/customizer/customizer.php:18
+msgid "Background"
+msgstr "Arrière plan"
+
+#: ../inc/customizer/customizer.php:22
+msgid "Logo & Favicon"
+msgstr "Logo & Favicon"
+
+#: ../inc/customizer/customizer.php:27
+msgid "Blog Settings"
+msgstr "Configuration du blog"
+
+#: ../inc/customizer/customizer.php:32
+msgid "Misc"
+msgstr "Divers"
+
+#: ../inc/customizer/customizer.php:37
+msgid "More"
+msgstr "Plus"
+
+#: ../inc/customizer/customizer.php:49
+msgid "Upload your logo"
+msgstr "Transférez votre logo"
+
+#: ../inc/customizer/customizer.php:50
+msgid "If no logo is uploaded, the site title will be displayed instead."
+msgstr "Si aucun logo n'est défini, le nom de site sera affiché à la place."
+
+#: ../inc/customizer/customizer.php:65
+msgid "Upload a custom favicon"
+msgstr "Transférez un favicon personnalisé."
+
+#: ../inc/customizer/customizer.php:66
+msgid ""
+"Set your favicon. 16x16 or 32x32 pixels is recommended. PNG (recommended), "
+"GIF, or ICO."
+msgstr ""
+"Définissez votre favicon. 16x16 ou 32x32 pixels. PNG (recommandé), GIF ou "
+"ICO."
+
+#: ../inc/customizer/customizer.php:81
+msgid "Blog Index Content"
+msgstr "Contenu de la page principale du blog"
+
+#: ../inc/customizer/customizer.php:86
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: ../inc/customizer/customizer.php:87
+msgid "Full content"
+msgstr "Contenu complet"
+
+#: ../inc/customizer/customizer.php:101
+msgid "Responsive Mode"
+msgstr "Mode \"Responsive\""
+
+#: ../inc/customizer/customizer.php:106 ../inc/customizer/customizer.php:126
+#: ../inc/customizer/customizer.php:145 ../inc/customizer/customizer.php:164
+#: ../inc/customizer/customizer.php:183
+msgid "On"
+msgstr "On"
+
+#: ../inc/customizer/customizer.php:107 ../inc/customizer/customizer.php:127
+#: ../inc/customizer/customizer.php:146 ../inc/customizer/customizer.php:165
+#: ../inc/customizer/customizer.php:184
+msgid "Off"
+msgstr "Off"
+
+#: ../inc/customizer/customizer.php:121
+msgid "Display header on Homepage"
+msgstr "Afficher l'image d'en-tête personnalisée sur la page d'accueil"
+
+#: ../inc/customizer/customizer.php:140
+msgid "Display header on Blog Index"
+msgstr ""
+"Afficher l'image d'en-tête personnalisée sur la page principale du blog"
+
+#: ../inc/customizer/customizer.php:159
+msgid "Display header on Single Posts"
+msgstr "Afficher l'image d'en-tête personnalisée sur les pages d'articles"
+
+#: ../inc/customizer/customizer.php:178
+msgid "Display header on Pages"
+msgstr "Afficher l'image d'en-tête personnalisée sur les pages"
+
+#: ../inc/customizer/customizer.php:198
+msgid "Get Chooko Pro"
+msgstr "Obtenir Chooko Pro !"
+
+#: ../inc/customizer/customizer.php:199
+msgid ""
+"Unleash the full potential of Chooko with tons of additional settings, "
+"advanced features and premium support."
+msgstr ""
+"Profitez de tout le potentiel de Chooko avec de nombreux paramètres de "
+"configuration, des fonctionnalités avancées et l'accès au forum de support "
+"premium (en anglais uniquement)."
+
+#: ../inc/customizer/customizer.php:215
+msgid "Chooko Lite support forums"
+msgstr "Forum d'aide de Chooko Lite (en anglais uniquement)"
+
+#: ../inc/customizer/customizer.php:216
+msgid "Have a question? Need help?"
+msgstr "Une question ? Besoin d'aide ?"
+
+#: ../inc/customizer/customizer.php:232
+msgid "Rate Chooko Lite"
+msgstr "Notez Chooko Lite"
+
+#: ../inc/customizer/customizer.php:233
+msgid "Like this theme? We'd love to hear your feedback!"
+msgstr "Vous aimez ce thème ? Nous serions ravi d'entendre vos avis !"
+
+#: ../inc/customizer/customizer.php:258
+msgid "Upgrade to Chooko Pro!"
+msgstr "Mettez à jour vers Chooko Pro !"
